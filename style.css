@@ -1,7 +1,17 @@
+body{
+    background:#591487e1;
+}
+
 h1 {
     text-align: center;
+    color:brown;
 }
 
 p{
     text-align: center;
+
+}
+
+em strong {
+    color:aqua;
 }
